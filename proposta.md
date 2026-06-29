@@ -15,5 +15,4 @@ Uma proposta prática de desenvolvimento do sistema de controle de compras e ven
 ## Referências
 Introdução ao Couchbase. GeeksforGeeks, 15 jul. 2025.
 Disponível em: https://www.geeksforgeeks.org/dbms/introduction-to-couchbase/.
-
 Acesso em: 26 jun. 2026.
