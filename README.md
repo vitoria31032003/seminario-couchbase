@@ -2,7 +2,7 @@
 O Couchbase é um banco de dados NoSQL de código aberto, otimizado para documentos JSON e aprimorado em aplicações interativas. Seu servidor foi desenvolvido para facilitar o acesso a dados do tipo chave-valor ou documentos JSON, tendo uma alta taxa de transferência sustentada e baixa latência. Com isso, suas aplicações podem auxiliar no atendimento de vários usuários, armazenando, criando, agregando, recuperando, manipulando e apresentando dados. 
 
 ## Objetivo
-Em relação aos seus objetivos, o seminário trouxe uma prática com operações no banco de dados por meio da implementação de um CRUD de produtos, mostrando as funcionalidades do SGBD couchbase em armazenar e gerenciar no formatos documentos JSON.
+Em relação aos seus objetivos, o projeto trouxe uma prática com operações no banco de dados por meio da implementação de um CRUD de produtos, mostrando as funcionalidades do SGBD couchbase em adicionar, consultar, atualizar e excluir no formatos documentos JSON.
 
 ## Tecnologias
 - Couchbase Server,
@@ -80,5 +80,7 @@ Procedimento 6: configuração do bucket.
 
 ## Referências
 SILVA, Leandro. Como configurar o Couchbase de forma automática utilizando Docker Compose. Medium, 2 jul. 2024. Disponível em: https://medium.com/@leandroleo02/como-configurar-o-couchbase-de-forma-autom%C3%A1tica-utilizando-docker-compose-3a0c700af83f. Acesso em: 2 jul. 2026.
+
 COMANDOS Git. Disponível em: https://comandosgit.github.io/. Acesso em: 2 jul. 2026.
+
 SILVA JÚNIOR, Francisco. Guia completo para usar o Virtual Environment (venv) no Python. Dev.to, 4 nov. 2024. Disponível em: https://dev.to/franciscojdsjr/guia-completo-para-usar-o-virtual-environment-venv-no-python-57bo. Acesso em: 2 jul. 2026. .
