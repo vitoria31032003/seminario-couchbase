@@ -1,4 +1,5 @@
 ## Seminário - Couchbase
+O Couchbase é um banco de dados NoSQL de código aberto, otimizado para documentos JSON e aprimorado em aplicações interativas. Seu servidor foi desenvolvido para facilitar o acesso a dados do tipo chave-valor ou documentos JSON, tendo uma alta taxa de transferência sustentada e baixa latência. Com isso, suas aplicações podem auxiliar no atendimento de vários usuários, armazenando, criando, agregando, recuperando, manipulando e apresentando dados. 
 
 ## Objetivo
 Em relação aos seus objetivos, o seminário trouxe uma prática com operações no banco de dados por meio da implementação de um CRUD de produtos, mostrando as funcionalidades do SGBD couchbase em armazenar e gerenciar no formatos documentos JSON.
