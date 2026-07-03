@@ -59,7 +59,8 @@ Passo 4: Para ativar o amibiente virtual no windows é esse comando .venv\Script
 Passo 5: Para desativar o amibiente virtual bastar digitar deactivate
 
 ## Instalação dos pacotes de um ambiente virtual
-Para instalação dos pacotes de ambiente virtual, tem que seguir apenas uma etapa:
+Para instalação dos pacotes de ambiente virtual, tem que seguir apenas uma única etapa:
+
 Etapa 1: pip install requirements.
 
 ## Configurações mínimas para utilizar o Couchbase
