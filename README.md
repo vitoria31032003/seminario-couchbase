@@ -33,11 +33,10 @@ seminario-couchbase/
 
 ## Instalação
 Para executar essa tarefa é necessário ter instalado:
-
-- Python 3.13 ou superior,
 - Coucbase Server,
 - Clonar o repositório utizando o comando git
 - VSCode ou um editor de código de sua preferência
+
 ## Clonar o repositório git
 Comando para clonar repositório: 
 Passo 1: git clone https://github.com/vitoria31032003/seminario-couchbase.git
